@@ -103,8 +103,8 @@ lord-icon{
     margin-bottom: 20px;
 }
 
-.review-1,.review-2,.review-3{
-    width: 35%;
+.review-1,.review-2,.review-3,.review-4{
+    width: 25%;
     border: 2px solid rgb(116, 72, 8);
     height: 450px;
     margin: 40px 20px 20px 20px;

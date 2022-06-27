@@ -1,16 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Pattaya&family=Poppins&display=swap');
+
 *{
     margin:0;
     padding:0;
     border:0
+}
+body{
+    font-family: "Poppins",sans-serif;
 }
 
 /* Navigation Bar */
 
 #logo{
     float: left;
-    font-size: 200%;
     color: rgb(148, 93, 11);
     margin-left: 100px;
+    font-family: "Pattaya", sans-serif;
+    font-weight: normal;
+    font-size: 2.5rem;
 }
 #menu{
     font-size: 110%;

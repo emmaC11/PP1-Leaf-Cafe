@@ -108,3 +108,11 @@ lord-icon{
   margin: 0 auto ;
 }
 
+.customer-review-container{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: burlywood;
+    margin-bottom: 20px;
+}
+

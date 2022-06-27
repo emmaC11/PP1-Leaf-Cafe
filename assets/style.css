@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    border:0
+}
+
+/* Navigation Bar */
+
+#logo{
+    float: left;
+    font-size: 200%;
+    color: rgb(148, 93, 11);
+    margin-left: 100px;
+}
+#menu{
+    font-size: 110%;
+    letter-spacing:4px;
+    margin-right: 90px;
+}
+#menu, #logo{
+    line-height: 75px;
+}
+
+#menu li{
+    float: right;
+    list-style-type: none;
+    margin-right: 50px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: rgb(148, 93, 11);
+}
+
+#menu a:hover{
+    border-bottom: 1px solid rgb(116, 72, 8);;
+}
+
+.active{
+    border-bottom: 1px solid rgb(116, 72, 8);;
+}
